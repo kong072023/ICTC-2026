@@ -3,7 +3,7 @@ Achieved the highest total PnL ($319.9M from 3 simulations) among 27 teams from 
 
 A team consists of two players, with our team members are Chenjun Kong and Shujaa Ali. Chenjun primarily focused on asset trading, while Shujaa mainly handled derivative trading.
 
-Game 1 achieved PnL of $87,742,491, ranked second place.
+Game 1 achieved PnL of $87,742,491, ranked 2nd place.
 
 Game 2 achieved PnL of $56,536,975, ranked 6th place.
 
