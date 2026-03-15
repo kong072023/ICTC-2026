@@ -1,7 +1,7 @@
 # ***DESCRIPTION OF THE EVENT
 Highest PnL (319.9M) among 27 teams in the UAlberta International Commodities Trading Competition 2026. A team consists of two players, with our team members are Chenjun Kong and Shujaa Ali. I primarily focused on asset trading, while my teammate mainly handled derivative trading.
 
-Game 1 achieved PnL of $87,742,491, ranked second place. (Game 1 Result.pdf didn't capture the PnL value since it is scrolled down while printing, but the webpage screenshot has it)
+Game 1 achieved PnL of $87,742,491, ranked second place.
 
 Game 2 achieved PnL of $56,536,975, ranked 6th place.
 
