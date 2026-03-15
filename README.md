@@ -1,7 +1,7 @@
 # ICTC-2026
 Highest PnL (319.9M) among 24 teams in the UAlberta International Commodities Trading Competition 2026. A team consists of two players, with our team members are Chenjun Kong and Shujaa Ali.
 
-Game 1 we have PnL of $87742491, ranked second place.
+Game 1 we have PnL of $87742491, ranked second place. (Game 1 Result.pdf didn't capture the PnL value, but the webpage screenshot has it)
 
 Game 2 we have PnL of $56536975, ranked 6th place.
 
