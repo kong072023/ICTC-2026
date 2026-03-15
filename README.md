@@ -6,3 +6,5 @@ Game 1 we have PnL of $87742491, ranked second place. (Game 1 Result.pdf didn't 
 Game 2 we have PnL of $56536975, ranked 6th place.
 
 Game 3 we have PnL of $175635089, ranked 1st place, nearly doubled the second.
+
+Leaderboard is the rankings for each individual game, posted during virtual meeting right after game without team info given.
