@@ -5,7 +5,7 @@ A team consists of two players, with our team members are Chenjun Kong and Shuja
 
 -----------------------------------------------------------------------------------------------
 
-The competition is in a **real-time trading** environment (3.5 seconds per tick, \textasciitilde450 ticks per simulation across three simulations).
+The competition is in a **real-time trading** environment (3.5 seconds per tick, ~450 ticks per simulation across three simulations).
 
 Game 1 achieved PnL of $87,742,491, ranked 2nd place.
 
