@@ -3,6 +3,8 @@ Achieved the **highest cumulative PnL** ($319.9M from 3 simulations) among 27 te
 
 A team consists of two players, with our team members are Chenjun Kong and Shujaa Ali. Chenjun primarily focused on asset trading, while Shujaa mainly handled derivative trading.
 
+-----------------------------------------------------------------------------------------------
+
 The competition is in a **real-time trading** environment (3.5 seconds per tick, \textasciitilde450 ticks per simulation across three simulations).
 
 Game 1 achieved PnL of $87,742,491, ranked 2nd place.
