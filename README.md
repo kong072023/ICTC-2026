@@ -13,6 +13,8 @@ Game 2 achieved PnL of $56,536,975, ranked 6th place (after penalties).
 
 Game 3 achieved PnL of $175,635,089, ranked 1st place (after penalties), nearly doubling the second team.
 
+-----------------------------------------------------------------------------------------------
+
 Despite achieving the highest cumulative PnL, our team ultimately placed 8th out of 27 teams since in addition to the deducted PnL, we lost a significant number of final score due to seven contract limit breaches during derivatives trading.
 
 It's important to stay within risk discipline.
