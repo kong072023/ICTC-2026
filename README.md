@@ -1,5 +1,5 @@
 # ***DESCRIPTION OF THE EVENT
-Achieved the **highest cumulative PnL** ($319.9M across 3 simulations after penalties) among 27 teams from 10+ universities worldwide in the International Commodities Trading Competition (ICTC) 2026 hosted by the Alberta School of Business, University of Alberta on March 13, 2026.
+Achieved the **highest cumulative PnL** ($319.9M across 3 simulations after penalties) among 27 teams from 10+ universities worldwide in the International Commodities Trading Competition (ICTC) 2026 hosted by the Alberta School of Business, University of Alberta.
 
 A team consists of two players, with our team members are Chenjun Kong and Shujaa Ali. Shujaa mainly handled derivative trading and initiated our collaboration as the team's captain, while Chenjun primarily focused on physical asset trading. 
 
@@ -16,3 +16,5 @@ Game 3 achieved PnL of $175,635,089, ranked 1st place (after penalties), nearly 
 Despite achieving the highest cumulative PnL, our team ultimately placed 8th out of 27 teams since in addition to the deducted PnL, we lost a significant number of final score due to seven contract limit breaches during derivatives trading.
 
 It's important to stay within risk discipline.
+
+Hosted by the Alberta School of Business, University of Alberta on March 13, 2026.
