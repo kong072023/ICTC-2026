@@ -5,12 +5,16 @@ A team consists of two players, with our team members are Chenjun Kong and Shuja
 
 -----------------------------------------------------------------------------------------------
 
-The competition is in a **real-time trading** environment (3.5 seconds per tick, ~450 ticks per simulation across three simulations), so AI is totally not useful here :)
+The competition is in a **real-time trading** environment (3.5 seconds per tick, ~450 ticks per simulation across three simulations)
 
 Game 1 achieved PnL of $87,742,491, ranked 2nd place.
 
-Game 2 achieved PnL of $56,536,975, ranked 6th place.
+Game 2 achieved PnL of $56,536,975, ranked 6th place (after penalties).
 
-Game 3 achieved PnL of $175,635,089, ranked 1st place, nearly doubling the second team.
+Game 3 achieved PnL of $175,635,089, ranked 1st place (after penalties), nearly doubling the second team.
 
-Despite achieving the highest cumulative PnL, our team ultimately placed 8th out of 27 teams due to two contract limit breaches in Game 2 and five contract limit breaches in Game 3 in news trading, as well as trading strategy diversification criteria applied in Game 1, according to the organizer’s email shown in Standing.png and Score & Reason.png above.
+Despite achieving the highest cumulative PnL, our team ultimately placed 8th out of 27 teams since in addition to the deducted PnL, we lost a significant number of final score due to seven contract limit breaches during derivatives trading.
+
+It's important to stay within risk discipline.
+
+Hosted by the Alberta School of Business, University of Alberta on March 13, 2026.
